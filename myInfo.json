@@ -1,11 +1,12 @@
-[
-    {
-        "name": "Jon Vic Barcenas",
-        "age": 19,
-        "alias": ["Jv", "Jombik", "Bikyong"],
-        "birthday": "June 28 2004",
-        "Games": ["Genshin", "ML"],
-        "birthPlace": "Toledo",
-        "city": "Cebu"
-    }
-]
+[ 
+     { 
+         "name": "Jon Vic Barcenas", 
+         "age": 19, 
+         "alias": ["Jv", "Jombik", "Bikyong"], 
+         "birthday": "June 28 2004", 
+         "Games": ["Genshin", "ML"], 
+         "birthPlace": "Toledo", 
+         "city": "Cebu",
+         "SHS": "PAU Excellencia Global Academy Foundation Inc.",
+     } 
+ ]
